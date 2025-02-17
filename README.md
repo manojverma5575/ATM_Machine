@@ -36,9 +36,6 @@ Create a MySQL database and import the provided SQL file.
 Update the database credentials in the Java code.
 Run the Project
 Compile and execute the Main.java file.
-📸 Screenshots
-(Include screenshots of your ATM Simulator UI)
-
 
 
 💡 Future Enhancements
@@ -60,4 +57,4 @@ Developed by [Manoj Verma]
    git add README.md
    git commit -m "Added README file"
    git push origin main
-4. Your README file will now be visible on GitHub! 🚀
+
